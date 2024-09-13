@@ -1,0 +1,16 @@
+{
+    "name": "coder/select2-results-adapter",
+    "description": "Custom Select2 Results Adapter",
+    "autoload": {
+        "psr-4": {
+            "Coder\\Select2ResultsAdapter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel Henry",
+            "email": "joel.henry@crixus.tech"
+        }
+    ],
+    "require": {}
+}
