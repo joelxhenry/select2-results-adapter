@@ -1,0 +1,11 @@
+{
+  "name": "select2-results-adapter",
+  "version": "1.0.0",
+  "description": "Custom results adapter for select2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Henry",
+  "license": "ISC"
+}
