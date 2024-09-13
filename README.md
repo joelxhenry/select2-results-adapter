@@ -1,0 +1,1 @@
+# select2-results-adapter
